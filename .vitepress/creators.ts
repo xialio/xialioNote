@@ -37,18 +37,39 @@ export const creators: Creator[] = [
     avatar: 'https://github.com/xialio/xialioNote/blob/main/public/Snoopy1.png?raw=true',
     username: 'Snoopy',
     title: '一只狗狗',
-    desc: '有着蓬松的毛发和聪明的眼睛。背景简单而明亮',
+    desc: '有着蓬松的毛发和聪明的眼睛。',
     links: [
-      { type: 'qq', icon: 'qq', link: 'tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=879084824' },
+      { type: 'github', icon: 'github', link: 'https://github.com/kagarinokenn' },
       { type: 'twitter', icon: 'twitter', link: 'https://twitter.com/sheimeijiecao' },
     ],
-    nameAliases: ['jackiexiao', 'sinubi'],
+    nameAliases: ['dog', 'sinubi'],
     emailAliases: ['2630210869@qq.com'],
+  },
+  {
+    name: 'jackiexiao',
+    avatar: '',
+    username: 'Jackiexiao',
+    title: 'software developer',
+    desc: 'yet another programmer',
+    links: [
+      { type: 'github', icon: 'github', link: 'https://github.com/jackiexiao' },
+      { type: 'twitter', icon: 'twitter', link: 'https://twitter.com/realjackiexiao' },
+    ],
+    nameAliases: ['jackiexiao', 'realjackiexiaoi'],
+    emailAliases: ['707610215@qq.com'],
   },
 ].map<Creator>((c) => {
   c.avatar = c.avatar || getAvatarUrl(c.username)
   return c as Creator
 })
+
+</script>
+
+# Our Team
+
+Say hello to our awesome team.
+
+<VPTeamMembers size="small" :members="members" />
 
 export const creatorNames = creators.map(c => c.name)
 export const creatorUsernames = creators.map(c => c.username || '')
