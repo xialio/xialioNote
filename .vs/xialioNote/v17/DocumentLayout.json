@@ -1,0 +1,746 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.github\\FUNDING.yml||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.github\\FUNDING.yml||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.vitepress\\styles\\kbd.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vitepress\\styles\\kbd.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.vitepress\\styles\\main.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vitepress\\styles\\main.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.vitepress\\styles\\vars.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vitepress\\styles\\vars.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.vitepress\\theme\\components\\AppContainer.vue||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vitepress\\theme\\components\\AppContainer.vue||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.vitepress\\theme\\components\\HomePage.vue||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vitepress\\theme\\components\\HomePage.vue||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.vitepress\\theme\\components\\DocFooter.vue||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vitepress\\theme\\components\\DocFooter.vue||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.vitepress\\theme\\components\\Share.vue||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vitepress\\theme\\components\\Share.vue||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.vitepress\\theme\\components\\TocList.vue||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vitepress\\theme\\components\\TocList.vue||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.vitepress\\theme\\index.ts||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vitepress\\theme\\index.ts||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.vitepress\\config.ts||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vitepress\\config.ts||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.vitepress\\creators.ts||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vitepress\\creators.ts||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.vitepress\\docsTagsAlias.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vitepress\\docsTagsAlias.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\metadata\\index.ts||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:metadata\\index.ts||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\public\\_redirects||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\_redirects||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\public\\site.webmanifest||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\site.webmanifest||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\public\\browserconfig.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\browserconfig.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\scripts\\update.ts||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:scripts\\update.ts||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\\u7B14\u8BB0\\\u270D\uFE0F \u6587\u6863\u5DE5\u7A0B\\\u56FE\u8868\u5373\u4EE3\u7801\uFF08CaC\uFF09\u56FE\u8868\u7ED8\u5236.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u7B14\u8BB0\\\u270D\uFE0F \u6587\u6863\u5DE5\u7A0B\\\u56FE\u8868\u5373\u4EE3\u7801\uFF08CaC\uFF09\u56FE\u8868\u7ED8\u5236.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\\u7B14\u8BB0\\\u6F14\u793A\u76EE\u5F551\\\u6587\u6863-\u5E26\u8BC4\u8BBA.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u7B14\u8BB0\\\u6F14\u793A\u76EE\u5F551\\\u6587\u6863-\u5E26\u8BC4\u8BBA.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\\u7B14\u8BB0\\\u6F14\u793A\u76EE\u5F551\\\u6587\u6863-\u4E0D\u5E26\u8BC4\u8BBA.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u7B14\u8BB0\\\u6F14\u793A\u76EE\u5F551\\\u6587\u6863-\u4E0D\u5E26\u8BC4\u8BBA.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\\u89C6\u56FE\\\u5C1A\u672A\u7F16\u5199\u5B8C\u6210\u7684\u9875\u9762.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u89C6\u56FE\\\u5C1A\u672A\u7F16\u5199\u5B8C\u6210\u7684\u9875\u9762.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\\u89C6\u56FE\\\u672A\u6DFB\u52A0\u6807\u7B7E\u7684\u9875\u9762.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u89C6\u56FE\\\u672A\u6DFB\u52A0\u6807\u7B7E\u7684\u9875\u9762.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.eslintignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.eslintignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.markdownlint.jsonc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.markdownlint.jsonc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.markdownlintignore||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.markdownlintignore||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\eslint.config.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:eslint.config.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\\uD83D\uDD0C \u77E5\u8BC6\u5E93\u63D2\u4EF6\u5217\u8868.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\uD83D\uDD0C \u77E5\u8BC6\u5E93\u63D2\u4EF6\u5217\u8868.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\vite.config.ts||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vite.config.ts||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\uno.config.ts||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:uno.config.ts||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\tsconfig.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tsconfig.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\toc.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:toc.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\pnpm-lock.yaml||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pnpm-lock.yaml||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\package.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\netlify.toml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:netlify.toml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\LICENSE-CC-BY-SA||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LICENSE-CC-BY-SA||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\LICENSE||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LICENSE||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FUNDING.yml",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.github\\FUNDING.yml",
+              "RelativeDocumentMoniker": ".github\\FUNDING.yml",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.github\\FUNDING.yml",
+              "RelativeToolTip": ".github\\FUNDING.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-07-27T08:39:11.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "kbd.css",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.vitepress\\styles\\kbd.css",
+              "RelativeDocumentMoniker": ".vitepress\\styles\\kbd.css",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.vitepress\\styles\\kbd.css",
+              "RelativeToolTip": ".vitepress\\styles\\kbd.css",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-27T08:39:07.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.css",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.vitepress\\styles\\main.css",
+              "RelativeDocumentMoniker": ".vitepress\\styles\\main.css",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.vitepress\\styles\\main.css",
+              "RelativeToolTip": ".vitepress\\styles\\main.css",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-27T08:39:02.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vars.css",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.vitepress\\styles\\vars.css",
+              "RelativeDocumentMoniker": ".vitepress\\styles\\vars.css",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.vitepress\\styles\\vars.css",
+              "RelativeToolTip": ".vitepress\\styles\\vars.css",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-27T08:38:57.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppContainer.vue",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.vitepress\\theme\\components\\AppContainer.vue",
+              "RelativeDocumentMoniker": ".vitepress\\theme\\components\\AppContainer.vue",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.vitepress\\theme\\components\\AppContainer.vue",
+              "RelativeToolTip": ".vitepress\\theme\\components\\AppContainer.vue",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-27T08:38:54.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DocFooter.vue",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.vitepress\\theme\\components\\DocFooter.vue",
+              "RelativeDocumentMoniker": ".vitepress\\theme\\components\\DocFooter.vue",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.vitepress\\theme\\components\\DocFooter.vue",
+              "RelativeToolTip": ".vitepress\\theme\\components\\DocFooter.vue",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-27T08:38:48.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomePage.vue",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.vitepress\\theme\\components\\HomePage.vue",
+              "RelativeDocumentMoniker": ".vitepress\\theme\\components\\HomePage.vue",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.vitepress\\theme\\components\\HomePage.vue",
+              "RelativeToolTip": ".vitepress\\theme\\components\\HomePage.vue",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-27T08:38:47.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Share.vue",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.vitepress\\theme\\components\\Share.vue",
+              "RelativeDocumentMoniker": ".vitepress\\theme\\components\\Share.vue",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.vitepress\\theme\\components\\Share.vue",
+              "RelativeToolTip": ".vitepress\\theme\\components\\Share.vue",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-27T08:38:42.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TocList.vue",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.vitepress\\theme\\components\\TocList.vue",
+              "RelativeDocumentMoniker": ".vitepress\\theme\\components\\TocList.vue",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.vitepress\\theme\\components\\TocList.vue",
+              "RelativeToolTip": ".vitepress\\theme\\components\\TocList.vue",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-27T08:38:38.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "config.ts",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.vitepress\\config.ts",
+              "RelativeDocumentMoniker": ".vitepress\\config.ts",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.vitepress\\config.ts",
+              "RelativeToolTip": ".vitepress\\config.ts",
+              "ViewState": "AQIAANgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-27T08:38:01.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "creators.ts",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.vitepress\\creators.ts",
+              "RelativeDocumentMoniker": ".vitepress\\creators.ts",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.vitepress\\creators.ts",
+              "RelativeToolTip": ".vitepress\\creators.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-27T08:34:18.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "docsTagsAlias.json",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.vitepress\\docsTagsAlias.json",
+              "RelativeDocumentMoniker": ".vitepress\\docsTagsAlias.json",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.vitepress\\docsTagsAlias.json",
+              "RelativeToolTip": ".vitepress\\docsTagsAlias.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-27T08:34:17.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "index.ts",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\metadata\\index.ts",
+              "RelativeDocumentMoniker": "metadata\\index.ts",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\metadata\\index.ts",
+              "RelativeToolTip": "metadata\\index.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-27T08:31:02.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_redirects",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\public\\_redirects",
+              "RelativeDocumentMoniker": "public\\_redirects",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\public\\_redirects",
+              "RelativeToolTip": "public\\_redirects",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-27T08:30:44.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "site.webmanifest",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\public\\site.webmanifest",
+              "RelativeDocumentMoniker": "public\\site.webmanifest",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\public\\site.webmanifest",
+              "RelativeToolTip": "public\\site.webmanifest",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-27T08:30:32.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "browserconfig.xml",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\public\\browserconfig.xml",
+              "RelativeDocumentMoniker": "public\\browserconfig.xml",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\public\\browserconfig.xml",
+              "RelativeToolTip": "public\\browserconfig.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-07-27T08:30:19.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.ts",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.vitepress\\theme\\index.ts",
+              "RelativeDocumentMoniker": ".vitepress\\theme\\index.ts",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.vitepress\\theme\\index.ts",
+              "RelativeToolTip": ".vitepress\\theme\\index.ts",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAJoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-27T08:09:30.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "update.ts",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\scripts\\update.ts",
+              "RelativeDocumentMoniker": "scripts\\update.ts",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\scripts\\update.ts",
+              "RelativeToolTip": "scripts\\update.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-27T08:08:56.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "\u56FE\u8868\u5373\u4EE3\u7801\uFF08CaC\uFF09\u56FE\u8868\u7ED8\u5236.md",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\\u7B14\u8BB0\\\u270D\uFE0F \u6587\u6863\u5DE5\u7A0B\\\u56FE\u8868\u5373\u4EE3\u7801\uFF08CaC\uFF09\u56FE\u8868\u7ED8\u5236.md",
+              "RelativeDocumentMoniker": "\u7B14\u8BB0\\\u270D\uFE0F \u6587\u6863\u5DE5\u7A0B\\\u56FE\u8868\u5373\u4EE3\u7801\uFF08CaC\uFF09\u56FE\u8868\u7ED8\u5236.md",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\\u7B14\u8BB0\\\u270D\uFE0F \u6587\u6863\u5DE5\u7A0B\\\u56FE\u8868\u5373\u4EE3\u7801\uFF08CaC\uFF09\u56FE\u8868\u7ED8\u5236.md",
+              "RelativeToolTip": "\u7B14\u8BB0\\\u270D\uFE0F \u6587\u6863\u5DE5\u7A0B\\\u56FE\u8868\u5373\u4EE3\u7801\uFF08CaC\uFF09\u56FE\u8868\u7ED8\u5236.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-07-27T08:08:30.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "\u6587\u6863-\u5E26\u8BC4\u8BBA.md",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\\u7B14\u8BB0\\\u6F14\u793A\u76EE\u5F551\\\u6587\u6863-\u5E26\u8BC4\u8BBA.md",
+              "RelativeDocumentMoniker": "\u7B14\u8BB0\\\u6F14\u793A\u76EE\u5F551\\\u6587\u6863-\u5E26\u8BC4\u8BBA.md",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\\u7B14\u8BB0\\\u6F14\u793A\u76EE\u5F551\\\u6587\u6863-\u5E26\u8BC4\u8BBA.md",
+              "RelativeToolTip": "\u7B14\u8BB0\\\u6F14\u793A\u76EE\u5F551\\\u6587\u6863-\u5E26\u8BC4\u8BBA.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-07-27T08:08:28.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "\u6587\u6863-\u4E0D\u5E26\u8BC4\u8BBA.md",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\\u7B14\u8BB0\\\u6F14\u793A\u76EE\u5F551\\\u6587\u6863-\u4E0D\u5E26\u8BC4\u8BBA.md",
+              "RelativeDocumentMoniker": "\u7B14\u8BB0\\\u6F14\u793A\u76EE\u5F551\\\u6587\u6863-\u4E0D\u5E26\u8BC4\u8BBA.md",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\\u7B14\u8BB0\\\u6F14\u793A\u76EE\u5F551\\\u6587\u6863-\u4E0D\u5E26\u8BC4\u8BBA.md",
+              "RelativeToolTip": "\u7B14\u8BB0\\\u6F14\u793A\u76EE\u5F551\\\u6587\u6863-\u4E0D\u5E26\u8BC4\u8BBA.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-07-27T08:08:27.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "\u5C1A\u672A\u7F16\u5199\u5B8C\u6210\u7684\u9875\u9762.md",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\\u89C6\u56FE\\\u5C1A\u672A\u7F16\u5199\u5B8C\u6210\u7684\u9875\u9762.md",
+              "RelativeDocumentMoniker": "\u89C6\u56FE\\\u5C1A\u672A\u7F16\u5199\u5B8C\u6210\u7684\u9875\u9762.md",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\\u89C6\u56FE\\\u5C1A\u672A\u7F16\u5199\u5B8C\u6210\u7684\u9875\u9762.md",
+              "RelativeToolTip": "\u89C6\u56FE\\\u5C1A\u672A\u7F16\u5199\u5B8C\u6210\u7684\u9875\u9762.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-07-27T08:08:20.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "\u672A\u6DFB\u52A0\u6807\u7B7E\u7684\u9875\u9762.md",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\\u89C6\u56FE\\\u672A\u6DFB\u52A0\u6807\u7B7E\u7684\u9875\u9762.md",
+              "RelativeDocumentMoniker": "\u89C6\u56FE\\\u672A\u6DFB\u52A0\u6807\u7B7E\u7684\u9875\u9762.md",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\\u89C6\u56FE\\\u672A\u6DFB\u52A0\u6807\u7B7E\u7684\u9875\u9762.md",
+              "RelativeToolTip": "\u89C6\u56FE\\\u672A\u6DFB\u52A0\u6807\u7B7E\u7684\u9875\u9762.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-07-27T08:08:19.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.editorconfig",
+              "RelativeDocumentMoniker": ".editorconfig",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.editorconfig",
+              "RelativeToolTip": ".editorconfig",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-27T08:08:16.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": ".eslintignore",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.eslintignore",
+              "RelativeDocumentMoniker": ".eslintignore",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.eslintignore",
+              "RelativeToolTip": ".eslintignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-27T08:08:14.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": ".gitattributes",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.gitattributes",
+              "RelativeDocumentMoniker": ".gitattributes",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.gitattributes",
+              "RelativeToolTip": ".gitattributes",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-27T08:08:13.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": ".gitignore",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-27T08:08:12.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": ".markdownlint.jsonc",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.markdownlint.jsonc",
+              "RelativeDocumentMoniker": ".markdownlint.jsonc",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.markdownlint.jsonc",
+              "RelativeToolTip": ".markdownlint.jsonc",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-27T08:08:11.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": ".markdownlintignore",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.markdownlintignore",
+              "RelativeDocumentMoniker": ".markdownlintignore",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\.markdownlintignore",
+              "RelativeToolTip": ".markdownlintignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-27T08:08:09.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "eslint.config.js",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\eslint.config.js",
+              "RelativeDocumentMoniker": "eslint.config.js",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\eslint.config.js",
+              "RelativeToolTip": "eslint.config.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-27T08:08:08.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "\uD83D\uDD0C \u77E5\u8BC6\u5E93\u63D2\u4EF6\u5217\u8868.md",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\\uD83D\uDD0C \u77E5\u8BC6\u5E93\u63D2\u4EF6\u5217\u8868.md",
+              "RelativeDocumentMoniker": "\uD83D\uDD0C \u77E5\u8BC6\u5E93\u63D2\u4EF6\u5217\u8868.md",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\\uD83D\uDD0C \u77E5\u8BC6\u5E93\u63D2\u4EF6\u5217\u8868.md",
+              "RelativeToolTip": "\uD83D\uDD0C \u77E5\u8BC6\u5E93\u63D2\u4EF6\u5217\u8868.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-07-27T08:08:00.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "vite.config.ts",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\vite.config.ts",
+              "RelativeDocumentMoniker": "vite.config.ts",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\vite.config.ts",
+              "RelativeToolTip": "vite.config.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-27T08:07:58.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "uno.config.ts",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\uno.config.ts",
+              "RelativeDocumentMoniker": "uno.config.ts",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\uno.config.ts",
+              "RelativeToolTip": "uno.config.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-27T08:07:57.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\tsconfig.json",
+              "RelativeDocumentMoniker": "tsconfig.json",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\tsconfig.json",
+              "RelativeToolTip": "tsconfig.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-27T08:07:56.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "toc.md",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\toc.md",
+              "RelativeDocumentMoniker": "toc.md",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\toc.md",
+              "RelativeToolTip": "toc.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-07-27T08:07:52.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "pnpm-lock.yaml",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\pnpm-lock.yaml",
+              "RelativeDocumentMoniker": "pnpm-lock.yaml",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\pnpm-lock.yaml",
+              "RelativeToolTip": "pnpm-lock.yaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-07-27T08:07:49.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "package.json",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-27T08:07:48.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "index.md",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\index.md",
+              "RelativeDocumentMoniker": "index.md",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\index.md",
+              "RelativeToolTip": "index.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-07-27T07:11:24.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LICENSE",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\LICENSE",
+              "RelativeDocumentMoniker": "LICENSE",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\LICENSE",
+              "RelativeToolTip": "LICENSE",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-27T07:11:23.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LICENSE-CC-BY-SA",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\LICENSE-CC-BY-SA",
+              "RelativeDocumentMoniker": "LICENSE-CC-BY-SA",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\LICENSE-CC-BY-SA",
+              "RelativeToolTip": "LICENSE-CC-BY-SA",
+              "ViewState": "AQIAAGoBAAAAAAAAAAAkwI0BAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-27T07:11:21.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "netlify.toml",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\netlify.toml",
+              "RelativeDocumentMoniker": "netlify.toml",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\netlify.toml",
+              "RelativeToolTip": "netlify.toml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-27T07:11:18.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "README.md",
+              "DocumentMoniker": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "d:\\Users\\a1356\\Documents\\GitHub\\xialioNote\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-07-27T07:11:13.671Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

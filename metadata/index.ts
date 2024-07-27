@@ -1,17 +1,17 @@
 /** 文本 */
-export const siteName = 'Nólëbase'
-export const siteShortName = 'Nólëbase'
-export const siteDescription = '记录回忆，知识和畅想的地方'
+export const siteName = 'xialioNote'
+export const siteShortName = 'xialioNote'
+export const siteDescription = '每一幅画作，都是心灵的窗口'
 
 /** 文档所在目录 */
 export const include = ['笔记', '生活']
 
 /** Repo */
-export const githubRepoLink = 'https://github.com/nolebase/nolebase'
+export const githubRepoLink = 'https://github.com/xialio/xialioNote'
 /** Discord */
-export const discordLink = 'https://discord.gg/XuNFDcDZGj'
+export const discordLink = 'https://discord.gg/wYTAMYqy8y'
 
 /** 无协议前缀域名 */
-export const plainTargetDomain = 'nolebase.ayaka.io'
+export const plainTargetDomain = 'xialio-note.vercel.app'
 /** 完整域名 */
 export const targetDomain = `https://${plainTargetDomain}`
