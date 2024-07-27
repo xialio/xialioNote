@@ -63,13 +63,5 @@ export const creators: Creator[] = [
   return c as Creator
 })
 
-</script>
-
-# Our Team
-
-Say hello to our awesome team.
-
-<VPTeamMembers size="small" :members="members" />
-
 export const creatorNames = creators.map(c => c.name)
 export const creatorUsernames = creators.map(c => c.username || '')
