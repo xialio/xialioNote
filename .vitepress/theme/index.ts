@@ -152,9 +152,9 @@ const ExtendedTheme: Theme = {
     // Obtain configuration from: https://giscus.app/
     giscusTalk({
       repo: 'xialio/xialioNote',
-      repoId: '',
+      repoId: 'R_kgDOMbvx7A',
       category: 'Announcements', // default: `General`
-      categoryId: 'DIC_kwDOL5WHss4CfTYs',
+      categoryId: 'DIC_kwDOMbvx7M4ChN2i',
       mapping: 'url', // default: `pathname`
       inputPosition: 'top', // default: `top`
       lang: 'zh-CN', // default: `zh-CN`

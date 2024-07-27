@@ -4,8 +4,10 @@
     "\\.github",
     "\\.vitepress",
     "\\.vitepress\\theme",
+    "\\.vitepress\\theme\\components",
     "\\scripts",
     "\\\u7B14\u8BB0"
   ],
+  "SelectedNode": "\\.vitepress\\config.ts",
   "PreviewInSolutionExplorer": false
 }
