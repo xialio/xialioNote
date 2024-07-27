@@ -34,12 +34,12 @@ export const creators: Creator[] = [
   },
   {
     name: '史努比',
-    avatar: 'https://pic.mksucai.com/00/09/70/1c78d28d31eae532.webp',
+    avatar: 'https://github.com/xialio/xialioNote/blob/main/public/Snoopy1.png?raw=true',
     username: 'Snoopy',
     title: '一只狗狗',
     desc: '有着蓬松的毛发和聪明的眼睛。背景简单而明亮',
     links: [
-      { type: 'github', icon: 'github', link: 'https://github.com/kagarinokenno' },
+      { type: 'qq', icon: 'qq', link: 'tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=879084824' },
       { type: 'twitter', icon: 'twitter', link: 'https://twitter.com/sheimeijiecao' },
     ],
     nameAliases: ['jackiexiao', 'sinubi'],
