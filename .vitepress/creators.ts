@@ -33,7 +33,17 @@ export const creators: Creator[] = [
     emailAliases: ['sansuke@a126.com'],
   },
   {
-   
+    name: '史努比',
+    avatar: 'https://pic.mksucai.com/00/09/70/1c78d28d31eae532.webp',
+    username: 'Snoopy',
+    title: '一只狗狗',
+    desc: '有着蓬松的毛发和聪明的眼睛。背景简单而明亮',
+    links: [
+      { type: 'github', icon: 'github', link: 'https://github.com/kagarinokenno' },
+      { type: 'twitter', icon: 'twitter', link: 'https://twitter.com/sheimeijiecao' },
+    ],
+    nameAliases: ['jackiexiao', 'sinubi'],
+    emailAliases: ['2630210869@qq.com'],
   },
 ].map<Creator>((c) => {
   c.avatar = c.avatar || getAvatarUrl(c.username)

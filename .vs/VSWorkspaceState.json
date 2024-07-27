@@ -3,13 +3,11 @@
     "",
     "\\.github",
     "\\.vitepress",
-    "\\.vitepress\\styles",
     "\\.vitepress\\theme",
-    "\\.vitepress\\theme\\components",
     "\\scripts",
     "\\\u7B14\u8BB0",
     "\\\u7B14\u8BB0\\\u6F14\u793A\u76EE\u5F551"
   ],
-  "SelectedNode": "\\index.md",
+  "SelectedNode": "\\.vitepress\\creators.ts",
   "PreviewInSolutionExplorer": false
 }

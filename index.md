@@ -6,9 +6,9 @@ title: xialioNote
 titleTemplate: 探寻梦想的色彩 —— xialio]的二次元艺术世界
 
 hero:
-  name: g~Nj$3J2^
-  text: 探索二次元世界，用画笔描绘梦想的色彩 —— 这不仅是一个动漫绘画的个人网页，更是一场心灵的奇幻旅程。在这里，每一个线条、每一种色彩，都是对美好世界的深情告白。
-  tagline: 
+  name: xialioNote
+  text: 探索二次元世界，用画笔描绘梦想的色彩 
+  tagline: 这不仅是一个动漫绘画的个人网页，更是一场心灵的奇幻旅程。在这里，每一个线条、每一种色彩，都是对美好世界的深情告白。
   image:
     src: /logo.svg
     alt: Vitest
