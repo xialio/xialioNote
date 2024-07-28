@@ -39,10 +39,10 @@ export const creators: Creator[] = [
     title: '一只狗狗',
     desc: '有着蓬松的毛发和聪明的眼睛。',
     links: [
-      { type: 'github', icon: 'github', link: 'https://github.com/kagarinokenn' },
-      { type: 'twitter', icon: 'twitter', link: 'https://twitter.com/sheimeijiecao' },
+      { type: 'weibo', icon: 'weibo', link: 'https://weibo.com/222971230' },
+      { type: 'wechat', icon: 'wechat', link: ' href="weixin://profile/Dec--Zhenyu"' },
     ],
-    nameAliases: ['dog', 'sinubi'],
+    nameAliases: ['dog', 'sinubi', 'Zhenyu'],
     emailAliases: ['2630210869@qq.com'],
   },
   {

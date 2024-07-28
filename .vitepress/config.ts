@@ -135,6 +135,17 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: githubRepoLink },
       { icon: 'discord', link: discordLink },
+      { icon: 'weibo', link: 'http://www.sinaimg.cn/blog/developer/wiki/32x32.png' },
+      { icon: 'wechat', link: 'https://open.weixin.qq.com/zh_CN/htmledition/res/assets/res-design-download/icon32_appwx_logo.png' },
+      // 还可以通过将SVG作为字符串传递来添加自定义图标:
+      {
+        icon: {
+          svg: '<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Dribbble</title><path d="M12...6.38z"/></svg>'
+        },
+        link: 'viewBox',
+        // You can include a custom label for accessibility too (optional but recommended):
+        ariaLabel: 'cool link'
+      }
     ],
     footer: {
       message: '用 <span style="color: #e25555;">&#9829;</span> 撰写',
