@@ -144,7 +144,7 @@ export default defineConfig({
         ariaLabel: 'weibo' // 可选，为无障碍添加标签
       }
       { icon: 'x', link: twitterLink },
-    ],
+      ],
     footer: {
       message: '用 <span style="color: #e25555;">&#9829;</span> 撰写',
       copyright:
