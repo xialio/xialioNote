@@ -39,7 +39,11 @@ export const creators: Creator[] = [
     title: '一只狗狗',
     desc: '有着蓬松的毛发和聪明的眼睛。',
     links: [
-      { type: 'weibo', icon: 'weibo', link: 'https://weibo.com/222971230' },
+      { type: 'weibo', icon:{
+          svg: '<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2c5.514 0 10 4.486 10 10s-4.486 10-10 10-10-4.486-10-10 4.486-10 10-10zm0-2c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2.5 7c.828 0 1.5.672 1.5 1.5s-.672 1.5-1.5 1.5-1.5-.672-1.5-1.5.672-1.5 1.5-1.5zm4.5 6v1h-1v-1h1zm2.5 0v1h-1v-1h1zm-10-1v1h-1v-1h1zm4-11.5c-.828 0-1.5.672-1.5 1.5s.672 1.5 1.5 1.5 1.5-.672 1.5-1.5-.672-1.5-1.5-1.5z"/></svg>'
+        },
+        link: 'https://weibo.com/222971230'
+      },
       { type: 'github', icon: 'github', link: 'https://github.com/kagarinokennn' },
     ],
     nameAliases: ['dog', 'sinubi', 'Zhenyu'],
