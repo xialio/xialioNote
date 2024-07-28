@@ -12,6 +12,8 @@ export const githubRepoLink = 'https://github.com/xialio/xialioNote'
 export const discordLink = 'https://discord.gg/wYTAMYqy8y'
 /** weibo */
 export const weiboLink = 'https://weibo.com/222971230'
+/** twitter */
+export const twitterLink = 'https://twitter.com/kagarinokenn'
 
 /** 无协议前缀域名 */
 export const plainTargetDomain = 'xialio-note.vercel.app'
