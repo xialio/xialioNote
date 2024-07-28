@@ -136,7 +136,7 @@ export default defineConfig({
       { icon: 'github', link: githubRepoLink },
       { icon: 'discord', link: discordLink },
       // 可以通过将 SVG 作为字符串传递来添加自定义图标：
-      { icon: 'x', link: weiboLink },
+      { icon: 'x', link: 'https://weibo.com/222971230' },
     ],
     footer: {
       message: '用 <span style="color: #e25555;">&#9829;</span> 撰写',
