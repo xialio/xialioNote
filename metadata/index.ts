@@ -10,6 +10,8 @@ export const include = ['笔记', '生活']
 export const githubRepoLink = 'https://github.com/xialio/xialioNote'
 /** Discord */
 export const discordLink = 'https://discord.gg/wYTAMYqy8y'
+/** weibo */
+export const weiboLink = 'https://weibo.com/222971230'
 
 /** 无协议前缀域名 */
 export const plainTargetDomain = 'xialio-note.vercel.app'

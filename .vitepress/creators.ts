@@ -40,7 +40,7 @@ export const creators: Creator[] = [
     desc: '有着蓬松的毛发和聪明的眼睛。',
     links: [
       { type: 'weibo', icon: 'weibo', link: 'https://weibo.com/222971230' },
-      { type: 'wechat', icon: 'wechat', link: ' href="weixin://profile/Dec--Zhenyu"' },
+      { type: 'github', icon: 'github', link: 'https://github.com/kagarinokennn' },
     ],
     nameAliases: ['dog', 'sinubi', 'Zhenyu'],
     emailAliases: ['2630210869@qq.com'],
