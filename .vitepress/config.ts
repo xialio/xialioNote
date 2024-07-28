@@ -135,7 +135,7 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: githubRepoLink },
       { icon: 'discord', link: discordLink },
-      { icon: 'x', link: twitterLink },
+      { icon: 'x', link: 'https://twitter.com/kagarinokenn' },
       // 可以通过将 SVG 作为字符串传递来添加自定义图标：
       {
         icon: {
