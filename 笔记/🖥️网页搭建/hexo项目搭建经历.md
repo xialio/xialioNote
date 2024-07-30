@@ -1,3 +1,9 @@
+---
+comment: true
+tags:
+  - hexo
+---
+
 # hexo项目搭建经历
 ## 由来
 阅读[如何使用 Hexo 搭建博客 - licyk的小窝](https://licyk.netlify.app/2024/06/26/how-to-deploy-hexo/#%E4%BD%BF%E7%94%A8-Github-Pages)

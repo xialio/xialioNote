@@ -1,7 +1,7 @@
 ---
 comment: true
 tags:
-  - 网页制作
+  - hexo
 ---
 
 # Edinburgh
