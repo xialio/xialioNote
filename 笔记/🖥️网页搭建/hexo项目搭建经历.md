@@ -1,10 +1,11 @@
-# 由来
+# hexo项目搭建经历
+## 由来
 阅读[如何使用 Hexo 搭建博客 - licyk的小窝](https://licyk.netlify.app/2024/06/26/how-to-deploy-hexo/#%E4%BD%BF%E7%94%A8-Github-Pages)
-# 视频教程
+## 视频教程
 
 [【零成本】Hexo个人博客搭建教程 | 无需服务器](https://www.bilibili.com/video/BV1Ju4m1c7WR?vd_source=3959badcbe10b1f39835643c2f2a72c5)_
 建立了基本部署在[Hexo](http://localhost:4000/)页面的hello world页面
-# 主题优化
+## 主题优化
 [Themes | Hexo](https://hexo.io/themes/)
 #### Edinburgh 
 ·1· [sharvaridesai/hexo-theme-edinburgh: Beautiful minimal portfolio theme for Hexo. (github.com)](https://github.com/sharvaridesai/hexo-theme-edinburgh)

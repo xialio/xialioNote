@@ -1,4 +1,5 @@
-# 取消代理设置
+# 使用vscode中 git 报错
+## 取消代理设置
 
 ## 设置系统代理
 
@@ -22,7 +23,7 @@
 
 在弹出的页面登录GitHub验证即可
 
-# Tips
+## Tips
 
 错误提示 `error: remote origin already exists.
 表示您尝试添加的名为 origin 的远程仓库已经存在于您当前的本地仓库配置中。
