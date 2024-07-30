@@ -1,10 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\.github",
+    "\\.github\\workflows",
     "\\.vitepress",
-    "\\metadata",
-    "\\public",
-    "\\scripts"
+    "\\metadata"
   ],
+  "SelectedNode": "\\.github\\workflows\\production-deployment-to-github-pages.yaml",
   "PreviewInSolutionExplorer": false
 }
