@@ -6,7 +6,9 @@ tags:
 ---
 # 如何将 HDRi 转为 3D 环境
 bilibili BV1kg4y1C79W
+
 ![[Pasted image 20240802142130.png]]
+
 EEVEE和Cycles都可用
 ## 教程
 
@@ -20,7 +22,9 @@ EEVEE和Cycles都可用
 
 ## 结合手机拍摄制作HDRi图片
 Nuke X
+
 ![[QQ_1722580081086.png]]
+
 > 合成效果不怎么样
 > 需要多重曝光来获取HDR的明度信息
 > 360度照片需要跟踪运算
