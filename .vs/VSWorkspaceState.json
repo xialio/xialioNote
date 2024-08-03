@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github",
-    "\\.github\\workflows",
-    "\\.vitepress",
-    "\\metadata"
+    "\\scripts",
+    "\\scripts\\types",
+    "\\\u89C6\u56FE"
   ],
   "PreviewInSolutionExplorer": false
 }
