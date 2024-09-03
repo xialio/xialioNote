@@ -234,9 +234,9 @@ tags:
 4. 推送到分支 (`git push origin feature/your-feature`)
 5. 创建一个新的 Pull Request
 ## 联系我
-- Email: xialio@example.com
+- Email: a1356281880@gmail.com
 - GitHub: [xialio](https://github.com/xialio)
-- Twitter: @xialio
+- Twitter: @kagarinokenn
 ## 致谢
 感谢以下工具和平台，它们让这个博客项目的搭建和维护变得更加简单：
 - [GitHub](https://github.com/nolebase/nolebase)

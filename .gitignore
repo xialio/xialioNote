@@ -6,6 +6,8 @@
 # IDE related
 
 .idea
+.vscode
+.vs/
 
 # Obsidian
 
