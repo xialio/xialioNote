@@ -26,7 +26,7 @@ hexo的页面添加图片好麻烦
 
 hexo d 命令git 上传的像是输出html网页
 另一个hexo项目应该是直接配置了源码
-```
+ ```
 name: Build Hexo Pages
 
 on:
@@ -87,14 +87,15 @@ jobs:
         run: |
           cd public
           git push origin HEAD:gh-pages --force
-```
+ ```
 
 ```
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC/HrT14CxvZSvgQbEcRnPemsf0oG4AjIzYBbKnCrNRpseLeZUTjddzxhCYa0pHDlynQyO9UT9XFaiGk5m5utKXJr7zpQTnr7sJPyP9MeSyVNzeGsUDjFfCiS5ynBeV1QOJxRXT8058KgBFpAGLTQJc7jHl+rvZiWj6lNAFWe99gEfz5KT0XY9UvMqIuJ2K4kmL06eRMiBl5IbK1+3DcbhuQC+kJFVSC2PVuls0YLq1QpIPmOSUjd0Tl2TMmKHvpDfMOvLLKsWfMTZySH9XplwBVNi+xYXPvnkzGqragM8KbXD8HUiwyqP5HMsg2m8pm1Mr5bErlHuPt5QN74f3lSNo2+8gow/dYRaS/PLdjUMkYleLz6nragT8LjYhmxKQOCxYsvZ9nSXYZihCNYEcGK3qZX417H6lYnCVSuzL/XH8a4k2vgK1gZAaoLtPIqr3LGPQODk295f33E1s+LqF/BnjObkY+iUlIVu5/z0LWqBKegOqkjZG9Euw58RnjH6u/v8= a1356281880@hotmail.com
 
 ```
 ## 在 GitHub Pages 上部署 Hexo
-```github/workflows/pages.yml
+```
+github/workflows/pages.yml
 
 |   |
 |---|
