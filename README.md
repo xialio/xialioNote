@@ -9,14 +9,14 @@
 
 <p align="center">
   <a href="https://discord.gg/XuNFDcDZGj"><img src="https://img.shields.io/discord/1229292283657195520?style=flat&logo=discord&logoColor=white&label=Discord&color=%23404eed" /></a>
-  <a href="https://t.me/+6WKTUzWijf1kMzFl"><img src="https://img.shields.io/badge/Group-%235AA9E6?logo=telegram&label=Telegram" /></a>
+  <a href="https://t.me/xialiocfimg"><img src="https://img.shields.io/badge/Group-%235AA9E6?logo=telegram&label=Telegram" /></a>
 </p>
 
 # xialio's Blog Project
 
-## 欢迎来到 xialio 的博客！
+## 欢迎来到 xialio 的笔记！
 
-这里是我的个人博客项目，同时也是我的 nolebase 笔记库。在这里，我会记录和分享关于编程、技术探索和个人成长的各种笔记和心得。
+这里是我的 nolebase 笔记库。在这里，我会记录和分享关于编程、技术探索和个人成长的各种笔记和心得。
 ## 目录
 
 - [关于博客](#关于博客)
@@ -25,7 +25,7 @@
 - [如何贡献](#如何贡献)
 - [联系我](#联系我)
 - [致谢](#致谢)
-## 关于博客
+## 关于 nolebase 
 
 这个博客是基于 [nolebase](https://github.com/nolebase/nolebase) 搭建的，使用 visual studio2022 编写文章，并通过vercel.com 进行部署。
 
@@ -56,9 +56,6 @@
   - [学习技巧](notes/personal-growth/study-skills/)
   - [职业规划](notes/personal-growth/career-planning/)
 
-
-```
-请根据实际情况调整上述内容，例如仓库地址、联系方式、笔记分类等。这个 README 文件为你的博客项目提供了一个清晰的概述，并帮助访问者快速找到他们感兴趣的内容。
 
 > [!NOTE]
 > 在 Markdown 文件上添加下面的属性，可以决定是否在当前文章中开启评论
@@ -112,7 +109,7 @@
 
 标签可以使得文档易于检索和串联在一起，也可以使得在阅读一篇文档之后再去阅读相关标签的其他文档时变得方便检索和寻找。
 
-过去 [xialioNote](https://nolebase.ayaka.io) 使用 [Obsidian](https://obsidian.md) 的[基本标签](https://help.obsidian.md/Editing+and+formatting/Tags) `#标签内容`（我叫它「裸标签」）来对页面进行标记，但是存在于正文的裸标签并不利于程序化的处理，而且在实践[结构化标签（或者嵌套标签）](https://help.obsidian.md/Editing+and+formatting/Tags#Nested+tags)的时候存在于正文中的结构化标签将会在一定程度上混淆视听，为了能够更好的集成到 [xialioNote 集成](https://nolebase-integrations.ayaka.io) 来全自动处理标签，优化整体阅读体验，现在 [xialioNote](https://nolebase.ayaka.io) 在 [Obsidian](https://obsidian.md) 所兼容的 Markdown 的 [frontmatter](https://github.com/jonschlinkert/gray-matter) 添加使用 `tags` 字段来配置页面的标签。
+过去 [xialioNote](https://note.xialio.us.kg/) 使用 [Obsidian](https://obsidian.md) 的[基本标签](https://help.obsidian.md/Editing+and+formatting/Tags) `#标签内容`（我叫它「裸标签」）来对页面进行标记，但是存在于正文的裸标签并不利于程序化的处理，而且在实践[结构化标签（或者嵌套标签）](https://help.obsidian.md/Editing+and+formatting/Tags#Nested+tags)的时候存在于正文中的结构化标签将会在一定程度上混淆视听，为了能够更好的集成到 [xialioNote 集成](https://nolebase-integrations.ayaka.io) 来全自动处理标签，优化整体阅读体验，现在 [xialioNote](https://nolebase.ayaka.io) 在 [Obsidian](https://obsidian.md) 所兼容的 Markdown 的 [frontmatter](https://github.com/jonschlinkert/gray-matter) 添加使用 `tags` 字段来配置页面的标签。
 
 ##### Markdown 撰写示例
 
