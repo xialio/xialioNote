@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cloudflare-imgbed.xialio.us.kg/file/1730174024010_ComfyUI_00033_.png" alt="ComfyUI_00033_.png" width=100% />
+  <img src="https://cloudflare-imgbed.xialio.us.kg/file/1730174770115_ComfyUI_00036_.png" alt="ComfyUI_00036_.png" width=100% />
 </p>
 
 <p align="center">
