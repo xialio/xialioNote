@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="350" src="https://cdn.theanimegallery.com/theanimegallery/063e7bb7-301c-49c9-bd21-6fd4af9b9a54-307w.webp">
+  <img src="https://cloudflare-imgbed.xialio.us.kg/file/1730174024010_ComfyUI_00033_.png" alt="ComfyUI_00033_.png" width=100% />
 </p>
 
 <p align="center">
